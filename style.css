@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background:url(./images/pexels-justin-hamilton-16109-92248.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn  {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  color: white;
+  border: 2px solid white;
+  width: 120px;
+  height: 100px;
+  margin: 20px;
+  text-transform: capitalize;
+}
+
+.CAIRO {
+  background: url(./images/cairo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.LONDON {
+  background: url(./images/londonjpg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.PARIS {
+  background:url(./images/paris.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ROMA {
+  background:url(./images/Roma.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.BERLIN {
+  background:url(./images/berlin.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.MADRID {
+  background:url(./images/madrid.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
